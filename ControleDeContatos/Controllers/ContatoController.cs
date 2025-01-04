@@ -36,6 +36,12 @@ namespace ControleDeContatos.Controllers
             return View(contato);
         }
 
+        public IActionResult Apagar(int id)
+        {
+            _contatoRepositorio.Apagar(id);
+            return RedirectToAction("Index");
+        }
+
         [HttpPost]
         public IActionResult Criar(ContatoModel contato)
         {
