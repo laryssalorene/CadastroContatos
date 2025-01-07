@@ -10,7 +10,7 @@ namespace ControleDeContatos.Repositorio
         public ContatoRepositorio(BancoContext bancoContext)
         {
             _bancoContext = bancoContext;
-
+ 
         }
 
         public ContatoModel ListarPorId(int id)

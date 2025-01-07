@@ -28,7 +28,7 @@ namespace ControleDeContatos
             //Toda vez q a interface IContatoRepositorio for chamada,
             //a injeção de dependendica logo abaixo vai, automaticamente, pegar e usar tudo da ContatoRepositorio
             services.AddScoped<IContatoRepositorio, ContatoRepositorio>();
-        }
+        } 
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)  // Mudança aqui: IHostingEnvironment foi descontinuado, use IWebHostEnvironment
         {

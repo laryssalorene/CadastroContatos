@@ -1,5 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore.Migrations;
-
+ 
 #nullable disable
 
 namespace ControleDeContatos.Migrations

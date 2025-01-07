@@ -3,7 +3,7 @@
 namespace ControleDeContatos.Models
 {
     public class ContatoModel
-    {
+    { 
         public int Id { get; set; }
         [Required(ErrorMessage = "Digite o nome do contato.")]
         public   string Nome { get; set; }
