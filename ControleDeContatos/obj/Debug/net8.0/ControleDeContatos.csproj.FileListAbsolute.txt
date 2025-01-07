@@ -26,11 +26,16 @@ C:\Users\vlaal\OneDrive\Área de Trabalho\PROJ\P1\ControleDeContatos\ControleDeC
 C:\Users\vlaal\OneDrive\Área de Trabalho\PROJ\P1\ControleDeContatos\ControleDeContatos\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ControleDeContatos.props
 C:\Users\vlaal\OneDrive\Área de Trabalho\PROJ\P1\ControleDeContatos\ControleDeContatos\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ControleDeContatos.props
 C:\Users\vlaal\OneDrive\Área de Trabalho\PROJ\P1\ControleDeContatos\ControleDeContatos\obj\Debug\net8.0\staticwebassets.pack.json
+<<<<<<< HEAD
+=======
+C:\Users\vlaal\OneDrive\Área de Trabalho\PROJ\P1\ControleDeContatos\ControleDeContatos\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+>>>>>>> 12dffa53ddea03fd21bf7e4eeef3acb2a5d26599
 C:\Users\vlaal\OneDrive\Área de Trabalho\PROJ\P1\ControleDeContatos\ControleDeContatos\obj\Debug\net8.0\ControleDeContatos.dll
 C:\Users\vlaal\OneDrive\Área de Trabalho\PROJ\P1\ControleDeContatos\ControleDeContatos\obj\Debug\net8.0\refint\ControleDeContatos.dll
 C:\Users\vlaal\OneDrive\Área de Trabalho\PROJ\P1\ControleDeContatos\ControleDeContatos\obj\Debug\net8.0\ControleDeContatos.pdb
 C:\Users\vlaal\OneDrive\Área de Trabalho\PROJ\P1\ControleDeContatos\ControleDeContatos\obj\Debug\net8.0\ControleDeContatos.genruntimeconfig.cache
 C:\Users\vlaal\OneDrive\Área de Trabalho\PROJ\P1\ControleDeContatos\ControleDeContatos\obj\Debug\net8.0\ref\ControleDeContatos.dll
+<<<<<<< HEAD
 C:\Users\vlaal\OneDrive\Área de Trabalho\PROJ\P1\ControleDeContatos\ControleDeContatos\obj\Debug\net8.0\ControleDeContatos.sourcelink.json
 C:\Users\vlaal\OneDrive\Área de Trabalho\PROJ\P1\ControleDeContatos\ControleDeContatos\bin\Debug\net8.0\Azure.Core.dll
 C:\Users\vlaal\OneDrive\Área de Trabalho\PROJ\P1\ControleDeContatos\ControleDeContatos\bin\Debug\net8.0\Azure.Identity.dll
@@ -341,3 +346,5 @@ C:\Users\larys\Desktop\CadastroContatos\ControleDeContatos\obj\Debug\net8.0\refi
 C:\Users\larys\Desktop\CadastroContatos\ControleDeContatos\obj\Debug\net8.0\ControleDeContatos.pdb
 C:\Users\larys\Desktop\CadastroContatos\ControleDeContatos\obj\Debug\net8.0\ControleDeContatos.genruntimeconfig.cache
 C:\Users\larys\Desktop\CadastroContatos\ControleDeContatos\obj\Debug\net8.0\ref\ControleDeContatos.dll
+=======
+>>>>>>> 12dffa53ddea03fd21bf7e4eeef3acb2a5d26599

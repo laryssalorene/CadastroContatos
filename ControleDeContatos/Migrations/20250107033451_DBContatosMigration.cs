@@ -9,7 +9,7 @@ namespace ControleDeContatos.Migrations
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
-        {
+        { 
             migrationBuilder.CreateTable(
                 name: "Contatos",
                 columns: table => new

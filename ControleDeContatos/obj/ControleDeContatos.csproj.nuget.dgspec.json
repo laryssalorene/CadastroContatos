@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\larys\\Desktop\\CadastroContatos\\ControleDeContatos\\ControleDeContatos.csproj": {}
   },
   "projects": {
@@ -12,12 +13,29 @@
         "projectPath": "C:\\Users\\larys\\Desktop\\CadastroContatos\\ControleDeContatos\\ControleDeContatos.csproj",
         "packagesPath": "C:\\Users\\larys\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\larys\\Desktop\\CadastroContatos\\ControleDeContatos\\obj\\",
+=======
+    "C:\\Users\\vlaal\\OneDrive\\Área de Trabalho\\PROJ\\P1\\ControleDeContatos\\ControleDeContatos\\ControleDeContatos.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\vlaal\\OneDrive\\Área de Trabalho\\PROJ\\P1\\ControleDeContatos\\ControleDeContatos\\ControleDeContatos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vlaal\\OneDrive\\Área de Trabalho\\PROJ\\P1\\ControleDeContatos\\ControleDeContatos\\ControleDeContatos.csproj",
+        "projectName": "ControleDeContatos",
+        "projectPath": "C:\\Users\\vlaal\\OneDrive\\Área de Trabalho\\PROJ\\P1\\ControleDeContatos\\ControleDeContatos\\ControleDeContatos.csproj",
+        "packagesPath": "C:\\Users\\vlaal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vlaal\\OneDrive\\Área de Trabalho\\PROJ\\P1\\ControleDeContatos\\ControleDeContatos\\obj\\",
+>>>>>>> 12dffa53ddea03fd21bf7e4eeef3acb2a5d26599
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
+<<<<<<< HEAD
           "C:\\Users\\larys\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "C:\\Users\\vlaal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 12dffa53ddea03fd21bf7e4eeef3acb2a5d26599
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -43,13 +61,18 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
+<<<<<<< HEAD
           "auditMode": "all"
+=======
+          "auditMode": "direct"
+>>>>>>> 12dffa53ddea03fd21bf7e4eeef3acb2a5d26599
         },
         "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+<<<<<<< HEAD
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -72,6 +95,8 @@
               "version": "[9.0.0, )"
             }
           },
+=======
+>>>>>>> 12dffa53ddea03fd21bf7e4eeef3acb2a5d26599
           "imports": [
             "net461",
             "net462",
@@ -91,7 +116,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+>>>>>>> 12dffa53ddea03fd21bf7e4eeef3acb2a5d26599
         }
       }
     }

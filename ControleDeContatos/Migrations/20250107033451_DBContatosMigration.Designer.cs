@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace ControleDeContatos.Migrations
 {
     [DbContext(typeof(BancoContext))]
-    [Migration("20250107033451_DBContatosMigration")]
+    [Migration("20250107033451_DBContatosMigration")] 
     partial class DBContatosMigration
     {
         /// <inheritdoc />

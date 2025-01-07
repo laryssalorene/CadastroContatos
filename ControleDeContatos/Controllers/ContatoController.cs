@@ -1,4 +1,4 @@
-﻿using ControleDeContatos.Models;
+using ControleDeContatos.Models;
 using ControleDeContatos.Repositorio;
 using Microsoft.AspNetCore.Mvc;
 

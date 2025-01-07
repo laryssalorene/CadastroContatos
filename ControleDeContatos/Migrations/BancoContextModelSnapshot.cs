@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace ControleDeContatos.Migrations
 {
     [DbContext(typeof(BancoContext))]
-    partial class BancoContextModelSnapshot : ModelSnapshot
+    partial class BancoContextModelSnapshot : ModelSnapshot 
     {
         protected override void BuildModel(ModelBuilder modelBuilder)
         {
